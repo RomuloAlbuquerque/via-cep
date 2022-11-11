@@ -1,0 +1,29 @@
+.home-container{
+    padding: 40px;
+    min-height: calc(100vh - 70px);
+    background-color: rgb(47, 110, 192);
+}
+
+.welcome{
+    margin: 100px 0;
+}
+
+.welcome h2{
+    text-align: center;   
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.start-button{
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 10px 30px;
+    margin: auto;
+}
